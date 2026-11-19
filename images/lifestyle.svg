@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Person using a tablet with charts">
+<rect width="300" height="200" fill="#fff"/>
+<ellipse cx="80" cy="95" rx="28" ry="55" fill="#e2e8f0"/><ellipse cx="225" cy="95" rx="28" ry="55" fill="#e2e8f0"/>
+<rect x="85" y="15" width="130" height="55" rx="3" fill="#2d3748"/>
+<rect x="95" y="45" width="10" height="17" fill="#5a67d8"/><rect x="110" y="35" width="10" height="27" fill="#48bb78"/>
+<polyline points="130,55 150,40 170,48 200,25" stroke="#63b3ed" stroke-width="3" fill="none"/>
+<circle cx="150" cy="95" r="15" fill="#744210"/>
+<path d="M118 190 Q118 115 150 112 Q182 115 182 190Z" fill="#3182ce"/>
+<rect x="138" y="140" width="24" height="30" rx="3" fill="#1a202c"/>
+<path d="M100 190 L105 150 M200 190 L195 150" stroke="#a0aec0" stroke-width="3"/>
+</svg>

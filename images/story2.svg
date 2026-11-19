@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="COVID-19 virus model with a test sample">
+<rect width="200" height="200" fill="#718096"/>
+<circle cx="100" cy="100" r="90" fill="#8a94a6"/>
+<rect x="105" y="115" width="22" height="55" rx="4" fill="#e53e3e"/>
+<rect x="102" y="108" width="28" height="10" rx="3" fill="#fff"/>
+<g fill="#f7fafc">
+<circle cx="80" cy="70" r="26"/><circle cx="125" cy="55" r="12"/><circle cx="50" cy="45" r="10"/>
+<circle cx="70" cy="30" r="8"/><circle cx="108" cy="82" r="9"/><circle cx="52" cy="92" r="9"/><circle cx="100" cy="38" r="8"/>
+</g>
+<path d="M60 160 Q100 190 150 160" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+</svg>

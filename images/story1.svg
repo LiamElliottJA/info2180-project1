@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Portrait of a doctor in a suit">
+<rect width="200" height="200" fill="#a0aec0"/>
+<rect x="0" y="0" width="200" height="200" fill="#cbd5e0"/>
+<path d="M30 200 Q35 135 100 130 Q165 135 170 200Z" fill="#2b4c8c"/>
+<path d="M85 130 L100 160 L115 130Z" fill="#fff"/>
+<rect x="88" y="110" width="24" height="24" fill="#5c3a21"/>
+<ellipse cx="100" cy="85" rx="30" ry="36" fill="#6b4226"/>
+<path d="M70 75 Q72 48 100 48 Q128 48 130 75 Q115 60 100 62 Q85 60 70 75Z" fill="#1a202c"/>
+<circle cx="89" cy="85" r="3" fill="#1a202c"/><circle cx="111" cy="85" r="3" fill="#1a202c"/>
+<path d="M90 104 Q100 112 110 104" stroke="#fff" stroke-width="3" fill="none"/>
+</svg>

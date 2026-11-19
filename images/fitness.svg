@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Phone with fitness tracker and runner">
+<rect width="300" height="200" fill="#fff"/>
+<rect x="110" y="10" width="90" height="170" rx="14" fill="#2d3748"/>
+<rect x="117" y="24" width="76" height="142" rx="4" fill="#bee3f8"/>
+<path d="M117 130 Q140 90 160 115 T193 95 V166 H117Z" fill="#90cdf4"/>
+<circle cx="155" cy="60" r="12" fill="#fff"/>
+<rect x="135" y="140" width="40" height="8" rx="4" fill="#fff"/>
+<circle cx="215" cy="160" r="12" fill="#3182ce"/><circle cx="85" cy="40" r="3" fill="#cbd5e0"/>
+<circle cx="70" cy="60" r="10" fill="#8d5524"/>
+<path d="M60 72 L80 72 L88 105 L72 110Z" fill="#ed64a6"/>
+<path d="M72 108 L58 140 L50 138 M80 105 L98 128 L108 150" stroke="#2d3748" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M62 78 L45 95" stroke="#8d5524" stroke-width="7" stroke-linecap="round"/>
+</svg>
